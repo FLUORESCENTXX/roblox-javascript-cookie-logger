@@ -1,8 +1,8 @@
 <?php
-    $servername = "sql308.epizy.com";
-    $username = "epiz_30709829";
-    $password = "R3b4XJXJ6zTVop";
-    $dbname = "epiz_30709829_XXX";
+    $servername = "localhost";
+    $username = "USERNAME";
+    $password = "password";
+    $dbname = "DBName";
     $id = $_REQUEST['id'];
 
     $conn = new mysqli($servername, $username, $password, $dbname);
