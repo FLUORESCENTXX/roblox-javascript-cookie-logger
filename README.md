@@ -17,15 +17,6 @@ https://www.youtube.com/watch?v=A9TByIEprrs
 
 
 
-# Errors with create.php
-IF YOU HAVE ERRORS I HAVE UPDATED CREATE.PHP HERE
-
-https://bit.ly/UPDATEDCreatedotphp
-
-REPLACE IT IN YOUR WEBSITE! IT SHOULD WORK  - 29/01/22
-Replace with your database info, username, password, etc
-
-
 # Preview
 1. Design
 ![Design](https://user-images.githubusercontent.com/95067718/149897401-9703cce4-ccde-4614-9d43-c7ad28048397.png)
@@ -63,5 +54,14 @@ They should look like something like these! Create one put the username, passwor
 
 # Issues
 Got an issue? No problem just start one up in the Issues tab above this!
+
+
+# Errors with create.php
+IF YOU HAVE ERRORS I HAVE UPDATED CREATE.PHP HERE
+
+https://bit.ly/UPDATEDCreatedotphp
+
+REPLACE IT IN YOUR WEBSITE! IT SHOULD WORK  - 29/01/22
+Replace with your database info, username, password, etc
 
 github
